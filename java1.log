@@ -1,0 +1,32 @@
+Sep 14, 2019 3:50:38 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Waiting until main window closes
+Sep 14, 2019 3:50:38 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after setVisible: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:39 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after opening: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:41 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Sep 14, 2019 3:50:41 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Main window has closed
+Sep 14, 2019 3:50:41 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Program terminated
+Sep 14, 2019 3:50:43 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Options file:C:\Users\ADITYA\.ganttproject
+Sep 14, 2019 3:50:44 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Waiting until main window closes
+Sep 14, 2019 3:50:44 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Sep 14, 2019 3:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds stored in the  options: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after setVisible: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after opening: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds stored in the  options: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:50:47 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Sep 14, 2019 3:50:47 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Main window has closed
+Sep 14, 2019 3:50:47 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Program terminated
