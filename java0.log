@@ -1,0 +1,56 @@
+Sep 14, 2019 3:17:15 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Waiting until main window closes
+Sep 14, 2019 3:17:16 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after setVisible: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:17:16 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after opening: java.awt.Rectangle[x=141,y=147,width=1638,height=786]
+Sep 14, 2019 3:17:24 PM org.ganttproject.impex.htmlpdf.itext.ITextEngine$2 run
+INFO: Scanning font directories...
+Sep 14, 2019 3:17:24 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=C:\Program Files (x86)\Java\jre1.8.0_221/lib/fonts
+Sep 14, 2019 3:17:24 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=C:/windows/fonts
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/usr/share/fonts/truetype
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory /usr/share/fonts/truetype is not readable
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/System/Library/Fonts
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory /System/Library/Fonts is not readable
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/C:/Program Files (x86)/GanttProject-2.8/plugins-2.8.10/org.ganttproject.impex.htmlpdf/resource/fonts
+Sep 14, 2019 3:17:26 PM org.ganttproject.impex.htmlpdf.itext.ITextEngine$2 run
+INFO: Scanning font directories completed
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin Task: name=Running export
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Export project
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Finalizing
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Sep 14, 2019 3:50:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished Task
+Sep 14, 2019 3:53:19 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin Task: name=Running export
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Export project
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Finalizing
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Sep 14, 2019 3:53:42 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished Task
+Sep 14, 2019 3:54:02 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Sep 14, 2019 3:54:05 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Main window has closed
+Sep 14, 2019 3:54:05 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Program terminated
